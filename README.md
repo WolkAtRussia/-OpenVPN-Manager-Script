@@ -12,3 +12,4 @@
 - Сохраните скрипт как openvpn_manager.sh
 - Дайте права на выполнение: chmod +x openvpn_manager.sh
 - Запустите с правами root: sudo ./openvpn_manager.sh
+![Uploading Снимок экрана 2025-06-11 225258.png…]()
