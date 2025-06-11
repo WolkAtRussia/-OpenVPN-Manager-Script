@@ -12,6 +12,6 @@
 - Сохраните скрипт как openvpn_manager.sh
 - Дайте права на выполнение: chmod +x openvpn_manager.sh
 - Запустите с правами root: sudo ./openvpn_manager.sh
-- 
+- В сгенерированном конфиге заменить $SERVER_IP на ип сервера
 
 ![Снимок экрана 2025-06-11 225258](https://github.com/user-attachments/assets/4a598c57-682b-4c7e-9025-9534b9e93342)
